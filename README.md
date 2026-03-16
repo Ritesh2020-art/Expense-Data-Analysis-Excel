@@ -47,9 +47,6 @@ The Excel dashboard provides the following insights:
 * Expense_Data_Project.xlsx – Excel project file
 * Dashboard.png – Screenshot of the dashboard
 
-## Dashboard Preview
-
-![Dashboard](Dashboard.png)
 
 ## Skills Demonstrated
 
